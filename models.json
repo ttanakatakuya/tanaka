@@ -1,0 +1,202 @@
+[
+  {
+    "id": "meta-llama/llama-4-scout-17b-16e-instruct",
+    "created": 1743874824,
+    "object": "model",
+    "owned_by": "Meta",
+    "active": true,
+    "context_window": 131072,
+    "public_apps": null,
+    "max_completion_tokens": 8192
+  },
+  {
+    "id": "meta-llama/llama-prompt-guard-2-86m",
+    "created": 1748632165,
+    "object": "model",
+    "owned_by": "Meta",
+    "active": true,
+    "context_window": 512,
+    "public_apps": null,
+    "max_completion_tokens": 512
+  },
+  {
+    "id": "allam-2-7b",
+    "created": 1737672203,
+    "object": "model",
+    "owned_by": "SDAIA",
+    "active": true,
+    "context_window": 4096,
+    "public_apps": null,
+    "max_completion_tokens": 4096
+  },
+  {
+    "id": "whisper-large-v3",
+    "created": 1693721698,
+    "object": "model",
+    "owned_by": "OpenAI",
+    "active": true,
+    "context_window": 448,
+    "public_apps": null,
+    "max_completion_tokens": 448
+  },
+  {
+    "id": "llama-3.1-8b-instant",
+    "created": 1693721698,
+    "object": "model",
+    "owned_by": "Meta",
+    "active": true,
+    "context_window": 131072,
+    "public_apps": null,
+    "max_completion_tokens": 131072
+  },
+  {
+    "id": "qwen/qwen3-32b",
+    "created": 1748396646,
+    "object": "model",
+    "owned_by": "Alibaba Cloud",
+    "active": true,
+    "context_window": 131072,
+    "public_apps": null,
+    "max_completion_tokens": 40960
+  },
+  {
+    "id": "playai-tts",
+    "created": 1740682771,
+    "object": "model",
+    "owned_by": "PlayAI",
+    "active": true,
+    "context_window": 8192,
+    "public_apps": null,
+    "max_completion_tokens": 8192
+  },
+  {
+    "id": "meta-llama/llama-prompt-guard-2-22m",
+    "created": 1748632101,
+    "object": "model",
+    "owned_by": "Meta",
+    "active": true,
+    "context_window": 512,
+    "public_apps": null,
+    "max_completion_tokens": 512
+  },
+  {
+    "id": "llama-3.3-70b-versatile",
+    "created": 1733447754,
+    "object": "model",
+    "owned_by": "Meta",
+    "active": true,
+    "context_window": 131072,
+    "public_apps": null,
+    "max_completion_tokens": 32768
+  },
+  {
+    "id": "openai/gpt-oss-120b",
+    "created": 1754408224,
+    "object": "model",
+    "owned_by": "OpenAI",
+    "active": true,
+    "context_window": 131072,
+    "public_apps": null,
+    "max_completion_tokens": 65536
+  },
+  {
+    "id": "moonshotai/kimi-k2-instruct-0905",
+    "created": 1757046093,
+    "object": "model",
+    "owned_by": "Moonshot AI",
+    "active": true,
+    "context_window": 262144,
+    "public_apps": null,
+    "max_completion_tokens": 16384
+  },
+  {
+    "id": "openai/gpt-oss-20b",
+    "created": 1754407957,
+    "object": "model",
+    "owned_by": "OpenAI",
+    "active": true,
+    "context_window": 131072,
+    "public_apps": null,
+    "max_completion_tokens": 65536
+  },
+  {
+    "id": "groq/compound-mini",
+    "created": 1756949707,
+    "object": "model",
+    "owned_by": "Groq",
+    "active": true,
+    "context_window": 131072,
+    "public_apps": null,
+    "max_completion_tokens": 8192
+  },
+  {
+    "id": "playai-tts-arabic",
+    "created": 1740682783,
+    "object": "model",
+    "owned_by": "PlayAI",
+    "active": true,
+    "context_window": 8192,
+    "public_apps": null,
+    "max_completion_tokens": 8192
+  },
+  {
+    "id": "openai/gpt-oss-safeguard-20b",
+    "created": 1761708789,
+    "object": "model",
+    "owned_by": "OpenAI",
+    "active": true,
+    "context_window": 131072,
+    "public_apps": null,
+    "max_completion_tokens": 65536
+  },
+  {
+    "id": "groq/compound",
+    "created": 1756949530,
+    "object": "model",
+    "owned_by": "Groq",
+    "active": true,
+    "context_window": 131072,
+    "public_apps": null,
+    "max_completion_tokens": 8192
+  },
+  {
+    "id": "meta-llama/llama-4-maverick-17b-128e-instruct",
+    "created": 1743877158,
+    "object": "model",
+    "owned_by": "Meta",
+    "active": true,
+    "context_window": 131072,
+    "public_apps": null,
+    "max_completion_tokens": 8192
+  },
+  {
+    "id": "moonshotai/kimi-k2-instruct",
+    "created": 1752435491,
+    "object": "model",
+    "owned_by": "Moonshot AI",
+    "active": true,
+    "context_window": 131072,
+    "public_apps": null,
+    "max_completion_tokens": 16384
+  },
+  {
+    "id": "meta-llama/llama-guard-4-12b",
+    "created": 1746743847,
+    "object": "model",
+    "owned_by": "Meta",
+    "active": true,
+    "context_window": 131072,
+    "public_apps": null,
+    "max_completion_tokens": 1024
+  },
+  {
+    "id": "whisper-large-v3-turbo",
+    "created": 1728413088,
+    "object": "model",
+    "owned_by": "OpenAI",
+    "active": true,
+    "context_window": 448,
+    "public_apps": null,
+    "max_completion_tokens": 448
+  }
+]

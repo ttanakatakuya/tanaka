@@ -1,0 +1,37 @@
+# Virtual environment
+rangenv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Pytest cache
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Large or user-specific files
+sample.pdf
+
+# Private keys
+*.pem
+*.key
